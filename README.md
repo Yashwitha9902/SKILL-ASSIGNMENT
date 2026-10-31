@@ -55,11 +55,11 @@ This repository contains 23 practical Python programming questions completed as 
 SKILL-ASSIGNMENT/
 │
 ├── SKILL ASSIGNMENT 2/
+│   ├── data.txt
+│   ├── document.txt
 │   ├── filehandling.ipynb
 │   ├── numpy.ipynb
 │   ├── pandas.ipynb
-│   ├── data.txt
-│   ├── document.txt
 │   ├── reverse.txt
 │   └── stats.txt
 │
