@@ -3,35 +3,46 @@
 **USN:** 4SF25CI187  
 **Section:** 3A
 
-## About the Project
+## Project Overview
 
-This repository contains Python practical assignments completed as part of the Python Skill Lab. It focuses on implementing fundamental concepts of File Handling, NumPy and Pandas through hands-on programming exercises.
+This repository contains 23 practical Python programming questions completed as part of the Python Skill Lab. The assignment focuses on File Handling, NumPy and Pandas through hands-on coding exercises.
 
-## Topics Covered
+## Assignment Details
 
-### 1. File Handling — 4 Questions
-- Reading and writing files
-- Counting lines, words and characters
-- Finding and replacing text
-- Reversing lines in a file
+### 1. File Handling (Questions 1–4)
 
-### 2. NumPy — 6 Questions
-- Creating and manipulating arrays
-- Accessing and modifying array elements
-- Finding maximum and minimum values
-- Performing mathematical and statistical operations
-- Reshaping arrays
+- Counting the number of words in a file.
+- Finding and replacing occurrences of a word.
+- Reading a file and printing its lines in reverse order.
+- Counting lines, words and characters in a file.
 
-### 3. Pandas — 13 Questions
-- Creating Series and DataFrames
-- Row-wise and column-wise operations
-- Handling missing values
-- Grouping and aggregation
-- Merging DataFrames
-- MultiIndex operations
-- Applying functions and lambda expressions
+### 2. NumPy (Questions 5–10)
 
-## Tools and Libraries Used
+- Creating and manipulating a 5 × 5 random array.
+- Replacing diagonal elements with zero.
+- Extracting border elements from an array.
+- Computing row-wise and column-wise sums.
+- Reshaping arrays into different dimensions.
+- Creating and sorting structured arrays by age.
+
+### 3. Pandas (Questions 11–23)
+
+- Creating DataFrames and adding calculated columns.
+- Computing row-wise and column-wise sums.
+- Handling missing values using column means.
+- Removing rows containing missing values.
+- Grouping data and performing sum and mean aggregation.
+- Grouping sales data by category.
+- Merging two DataFrames.
+- Performing indexing and slicing on MultiIndex DataFrames.
+- Grouping MultiIndex data and calculating sums.
+- Applying functions to DataFrames.
+- Using lambda functions to calculate row-wise sums.
+- Converting text strings to uppercase.
+- Extracting the first three characters of strings.
+
+## Technologies Used
+
 - Python
 - NumPy
 - Pandas
